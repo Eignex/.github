@@ -1,3 +1,5 @@
+![Banner](./banner.svg)
+
 # Eignex
 
 Eignex builds high-performance open source software in Kotlin for the JVM ecosystem, centered on backend libraries, compact data formats, and optimization tooling. The goal is to offer small, infrastructure-grade components that help teams build faster and operate more efficiently. The long-term vision is a cohesive stack that brings advanced optimization techniques into everyday backend systems through predictable performance, low overhead, and seamless JVM integration.
