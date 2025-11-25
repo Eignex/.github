@@ -1,4 +1,6 @@
-![Banner](./banner.svg)
+<p align="center">
+  <img src="banner.svg" style="max-width: 100%; width: 20em" />
+</p>
 
 # Eignex
 
