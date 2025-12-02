@@ -28,7 +28,7 @@ A premium hosted version will be available at **eignex.io**, offering managed in
 
 
 ## Contact
-TODO
+info@eignex.com
 
 ## Repositories
 
