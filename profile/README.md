@@ -12,7 +12,6 @@ Eignex builds high-performance open source software in Kotlin for the JVM ecosys
 * Components designed for distributed and production environments.
 * Tools that scale cleanly from experimentation to full deployment.
 
-
 ## Combo (Primary Project)
 
 **combo** is a multi-variate bandit optimization engine. It supports machine-learning–driven optimization for:
@@ -20,18 +19,18 @@ Eignex builds high-performance open source software in Kotlin for the JVM ecosys
 * LLM agent flows and prompt strategies,
 * UI and UX parameter experiments,
 * Feature flags, routing, and backend tuning,
-* and anything else you can think of.
+* ... and anything else you can think of.
 
-combo runs as an on-prem service deployable on k8s, with an HTTP API and SDK for use from any language. It is fully open source but still under active development and not yet publicly released.
+It runs as an on-prem service deployable on k8s, with an HTTP API and SDK for use from any language. It is fully open source but still under active development and not yet publicly released.
 
-A premium hosted version will be available at **eignex.io**, offering managed infrastructure, analytics UI, and operational tooling.
-
-
-## Contact
-info@eignex.com
+A premium hosted version will be available at eignex.io, offering managed infrastructure, analytics UI, and operational tooling.
 
 ## Repositories
 
-- **[combo](https://github.com/Eignex/combo)** Multi-variate discrete optimization engine (in development).
-- **[kencode](https://github.com/Eignex/kencode)** Binary–text codecs and compact bit-packed serialization for Kotlin.
-- **[kpermute](https://github.com/Eignex/kpermute)** Deterministic, reversible integer permutations for sampling, masking, and pseudo-random shuffling.
+- **[combo](https://github.com/Eignex/combo)** A fast, modular engine for multivariate discrete optimization (in development).
+- **[kencode](https://github.com/Eignex/kencode)** High-efficiency binary/text codecs with compact bit-packed serialization for Kotlin.
+- **[kpermute](https://github.com/Eignex/kpermute)** Deterministic, reversible integer permutation functions for sampling, masking, and pseudo-random shuffling.
+- **[katomstats](https://github.com/Eignex/katomstats)** Lock-free, atomic online statistics for high-performance parallel applications.
+
+## Contact
+info@eignex.com
